@@ -22,7 +22,7 @@ End the program and close the output image windows.
 ### Developed By: Aakash S
 ### Register Number: 212221240001
 i) #To Read,display the image
-```
+```python3
 import cv2
 img = cv2.imread('car.jpg', 0)
 resized_img = cv2.resize(img, None, fx=0.1, fy=0.1)
@@ -31,7 +31,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ii) #To write the image
-```
+```python3
 import cv2
 img=cv2.imread('car.jpg',0)
 cv2.imwrite('writed_walt.png',img)
