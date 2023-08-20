@@ -70,14 +70,14 @@ cv2.destroyAllWindows()
 ## Output:
 
 ### i) Read and display the image
-![Output](1.png)
+![Output](./1.png)
 ### ii)Write the image
-![Output](2.png)
+![Output](./2.png)
 ### iii)Shape of the Image
-![Output](3.png)
+![Output](./3.png)
 ### iv)Access rows and columns
-![Output](4.png)
+![Output](./4.png)
 ### v)Cut and paste portion of image
-![Output](5.png)
+![Output](./5.png)
 ## Result:
 Thus the images are read, displayed, and written successfully using the python program.
